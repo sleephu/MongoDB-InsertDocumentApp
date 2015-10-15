@@ -12,6 +12,6 @@ Write a .sh/.bash file.
 _dfiles=/Users/hello/Downloads/NYSE/*.csv
 for f in $_dfiles
 do
-mongoimport --type csv -d hw3 -c nyse --headerline --file ${f} --jsonArray
+mongoimport --type csv -d database -c nyse --headerline --file ${f} --jsonArray
 done
 ```
