@@ -1,7 +1,7 @@
-# MongoDB-InsertDocumentApp
-*java application for insert data into MongoDB.
-*Data source: http://grouplens.org/datasets/movielens/
-*To put it simply, those source files are included inside the project under doc folder.
+## MongoDB-InsertDocumentApp
+* java application for insert data into MongoDB.
+* Data source: http://grouplens.org/datasets/movielens/
+* To put it simply, those source files are included inside the project under doc folder.
 
 ####Another way to import data into MongoDB: 
 Write a .sh/.bash file.
